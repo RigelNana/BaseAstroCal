@@ -1,7 +1,3 @@
-'''
-公式来源于许剑伟老师翻译的《天文算法》
-made by 5LaaLi
-'''
 import math
 from math import sin, cos, asin, atan2, floor, degrees, radians
 import datetime
